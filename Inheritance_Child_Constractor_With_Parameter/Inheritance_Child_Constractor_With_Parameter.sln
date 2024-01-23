@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance_Child_Constractor_With_Parameter", "Inheritance_Child_Constractor_With_Parameter\Inheritance_Child_Constractor_With_Parameter.csproj", "{B90D497C-2422-4CDF-BFA0-94797F8A5256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B90D497C-2422-4CDF-BFA0-94797F8A5256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90D497C-2422-4CDF-BFA0-94797F8A5256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90D497C-2422-4CDF-BFA0-94797F8A5256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90D497C-2422-4CDF-BFA0-94797F8A5256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50087CF4-D43E-4485-91E6-30AA2C2160F0}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Inheritance_Child_Constractor\Inheritance_Child_Constractor\bin\Debug\net8.0\Inheritance_Child_Constractor.exe
+D:\OOPC#\OOP_CSharp\Inheritance_Child_Constractor\Inheritance_Child_Constractor\bin\Debug\net8.0\Inheritance_Child_Constractor.deps.json
+D:\OOPC#\OOP_CSharp\Inheritance_Child_Constractor\Inheritance_Child_Constractor\bin\Debug\net8.0\Inheritance_Child_Constractor.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Inheritance_Child_Constractor\Inheritance_Child_Constractor\bin\Debug\net8.0\Inheritance_Child_Constractor.dll
+D:\OOPC#\OOP_CSharp\Inheritance_Child_Constractor\Inheritance_Child_Constractor\bin\Debug\net8.0\Inheritance_Child_Constractor.pdb
+D:\OOPC#\OOP_CSharp\Inheritance_Child_Constractor\Inheritance_Child_Constractor\obj\Debug\net8.0\Inheritance_Child_Constractor.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Inheritance_Child_Constractor\Inheritance_Child_Constractor\obj\Debug\net8.0\Inheritance_Child_Constractor.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Inheritance_Child_Constractor\Inheritance_Child_Constractor\obj\Debug\net8.0\Inheritance_Child_Constractor.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Inheritance_Child_Constractor\Inheritance_Child_Constractor\obj\Debug\net8.0\Inheritance_Child_Constractor.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Inheritance_Child_Constractor\Inheritance_Child_Constractor\obj\Debug\net8.0\Inheritance_Child_Constractor.sourcelink.json
+D:\OOPC#\OOP_CSharp\Inheritance_Child_Constractor\Inheritance_Child_Constractor\obj\Debug\net8.0\Inheritance_Child_Constractor.dll
+D:\OOPC#\OOP_CSharp\Inheritance_Child_Constractor\Inheritance_Child_Constractor\obj\Debug\net8.0\refint\Inheritance_Child_Constractor.dll
+D:\OOPC#\OOP_CSharp\Inheritance_Child_Constractor\Inheritance_Child_Constractor\obj\Debug\net8.0\Inheritance_Child_Constractor.pdb
+D:\OOPC#\OOP_CSharp\Inheritance_Child_Constractor\Inheritance_Child_Constractor\obj\Debug\net8.0\Inheritance_Child_Constractor.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Inheritance_Child_Constractor\Inheritance_Child_Constractor\obj\Debug\net8.0\ref\Inheritance_Child_Constractor.dll
