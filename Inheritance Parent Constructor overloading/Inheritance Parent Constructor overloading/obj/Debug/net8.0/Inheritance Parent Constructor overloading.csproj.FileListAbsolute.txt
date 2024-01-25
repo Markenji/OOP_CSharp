@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Inheritance Parent Constructor overloading\Inheritance Parent Constructor overloading\bin\Debug\net8.0\Inheritance Parent Constructor overloading.exe
+D:\OOPC#\OOP_CSharp\Inheritance Parent Constructor overloading\Inheritance Parent Constructor overloading\bin\Debug\net8.0\Inheritance Parent Constructor overloading.deps.json
+D:\OOPC#\OOP_CSharp\Inheritance Parent Constructor overloading\Inheritance Parent Constructor overloading\bin\Debug\net8.0\Inheritance Parent Constructor overloading.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Inheritance Parent Constructor overloading\Inheritance Parent Constructor overloading\bin\Debug\net8.0\Inheritance Parent Constructor overloading.dll
+D:\OOPC#\OOP_CSharp\Inheritance Parent Constructor overloading\Inheritance Parent Constructor overloading\bin\Debug\net8.0\Inheritance Parent Constructor overloading.pdb
+D:\OOPC#\OOP_CSharp\Inheritance Parent Constructor overloading\Inheritance Parent Constructor overloading\obj\Debug\net8.0\Inheritance Parent Constructor overloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Inheritance Parent Constructor overloading\Inheritance Parent Constructor overloading\obj\Debug\net8.0\Inheritance Parent Constructor overloading.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Inheritance Parent Constructor overloading\Inheritance Parent Constructor overloading\obj\Debug\net8.0\Inheritance Parent Constructor overloading.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Inheritance Parent Constructor overloading\Inheritance Parent Constructor overloading\obj\Debug\net8.0\Inheritance Parent Constructor overloading.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Inheritance Parent Constructor overloading\Inheritance Parent Constructor overloading\obj\Debug\net8.0\Inheritance Parent Constructor overloading.sourcelink.json
+D:\OOPC#\OOP_CSharp\Inheritance Parent Constructor overloading\Inheritance Parent Constructor overloading\obj\Debug\net8.0\Inheritance Parent Constructor overloading.dll
+D:\OOPC#\OOP_CSharp\Inheritance Parent Constructor overloading\Inheritance Parent Constructor overloading\obj\Debug\net8.0\refint\Inheritance Parent Constructor overloading.dll
+D:\OOPC#\OOP_CSharp\Inheritance Parent Constructor overloading\Inheritance Parent Constructor overloading\obj\Debug\net8.0\Inheritance Parent Constructor overloading.pdb
+D:\OOPC#\OOP_CSharp\Inheritance Parent Constructor overloading\Inheritance Parent Constructor overloading\obj\Debug\net8.0\Inheritance Parent Constructor overloading.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Inheritance Parent Constructor overloading\Inheritance Parent Constructor overloading\obj\Debug\net8.0\ref\Inheritance Parent Constructor overloading.dll

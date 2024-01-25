@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Const and ReadOnly\Const and ReadOnly\bin\Debug\net8.0\Const and ReadOnly.exe
+D:\OOPC#\OOP_CSharp\Const and ReadOnly\Const and ReadOnly\bin\Debug\net8.0\Const and ReadOnly.deps.json
+D:\OOPC#\OOP_CSharp\Const and ReadOnly\Const and ReadOnly\bin\Debug\net8.0\Const and ReadOnly.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Const and ReadOnly\Const and ReadOnly\bin\Debug\net8.0\Const and ReadOnly.dll
+D:\OOPC#\OOP_CSharp\Const and ReadOnly\Const and ReadOnly\bin\Debug\net8.0\Const and ReadOnly.pdb
+D:\OOPC#\OOP_CSharp\Const and ReadOnly\Const and ReadOnly\obj\Debug\net8.0\Const and ReadOnly.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Const and ReadOnly\Const and ReadOnly\obj\Debug\net8.0\Const and ReadOnly.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Const and ReadOnly\Const and ReadOnly\obj\Debug\net8.0\Const and ReadOnly.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Const and ReadOnly\Const and ReadOnly\obj\Debug\net8.0\Const and ReadOnly.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Const and ReadOnly\Const and ReadOnly\obj\Debug\net8.0\Const and ReadOnly.sourcelink.json
+D:\OOPC#\OOP_CSharp\Const and ReadOnly\Const and ReadOnly\obj\Debug\net8.0\Const and ReadOnly.dll
+D:\OOPC#\OOP_CSharp\Const and ReadOnly\Const and ReadOnly\obj\Debug\net8.0\refint\Const and ReadOnly.dll
+D:\OOPC#\OOP_CSharp\Const and ReadOnly\Const and ReadOnly\obj\Debug\net8.0\Const and ReadOnly.pdb
+D:\OOPC#\OOP_CSharp\Const and ReadOnly\Const and ReadOnly\obj\Debug\net8.0\Const and ReadOnly.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Const and ReadOnly\Const and ReadOnly\obj\Debug\net8.0\ref\Const and ReadOnly.dll

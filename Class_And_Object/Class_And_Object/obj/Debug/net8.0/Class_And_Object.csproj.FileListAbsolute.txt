@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Class_And_Object\Class_And_Object\obj\Debug\net8.0\Class_And_Object.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Class_And_Object\Class_And_Object\obj\Debug\net8.0\Class_And_Object.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Class_And_Object\Class_And_Object\obj\Debug\net8.0\Class_And_Object.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Class_And_Object\Class_And_Object\obj\Debug\net8.0\Class_And_Object.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Class_And_Object\Class_And_Object\obj\Debug\net8.0\Class_And_Object.sourcelink.json
+D:\OOPC#\OOP_CSharp\Class_And_Object\Class_And_Object\bin\Debug\net8.0\Class_And_Object.exe
+D:\OOPC#\OOP_CSharp\Class_And_Object\Class_And_Object\bin\Debug\net8.0\Class_And_Object.deps.json
+D:\OOPC#\OOP_CSharp\Class_And_Object\Class_And_Object\bin\Debug\net8.0\Class_And_Object.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Class_And_Object\Class_And_Object\bin\Debug\net8.0\Class_And_Object.dll
+D:\OOPC#\OOP_CSharp\Class_And_Object\Class_And_Object\bin\Debug\net8.0\Class_And_Object.pdb
+D:\OOPC#\OOP_CSharp\Class_And_Object\Class_And_Object\obj\Debug\net8.0\Class_And_Object.dll
+D:\OOPC#\OOP_CSharp\Class_And_Object\Class_And_Object\obj\Debug\net8.0\refint\Class_And_Object.dll
+D:\OOPC#\OOP_CSharp\Class_And_Object\Class_And_Object\obj\Debug\net8.0\Class_And_Object.pdb
+D:\OOPC#\OOP_CSharp\Class_And_Object\Class_And_Object\obj\Debug\net8.0\Class_And_Object.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Class_And_Object\Class_And_Object\obj\Debug\net8.0\ref\Class_And_Object.dll

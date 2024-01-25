@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Inheritance Parent = Child\Inheritance Parent = Child\bin\Debug\net8.0\Inheritance Parent = Child.exe
+D:\OOPC#\OOP_CSharp\Inheritance Parent = Child\Inheritance Parent = Child\bin\Debug\net8.0\Inheritance Parent = Child.deps.json
+D:\OOPC#\OOP_CSharp\Inheritance Parent = Child\Inheritance Parent = Child\bin\Debug\net8.0\Inheritance Parent = Child.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Inheritance Parent = Child\Inheritance Parent = Child\bin\Debug\net8.0\Inheritance Parent = Child.dll
+D:\OOPC#\OOP_CSharp\Inheritance Parent = Child\Inheritance Parent = Child\bin\Debug\net8.0\Inheritance Parent = Child.pdb
+D:\OOPC#\OOP_CSharp\Inheritance Parent = Child\Inheritance Parent = Child\obj\Debug\net8.0\Inheritance Parent = Child.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Inheritance Parent = Child\Inheritance Parent = Child\obj\Debug\net8.0\Inheritance Parent = Child.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Inheritance Parent = Child\Inheritance Parent = Child\obj\Debug\net8.0\Inheritance Parent = Child.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Inheritance Parent = Child\Inheritance Parent = Child\obj\Debug\net8.0\Inheritance Parent = Child.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Inheritance Parent = Child\Inheritance Parent = Child\obj\Debug\net8.0\Inheritance Parent = Child.sourcelink.json
+D:\OOPC#\OOP_CSharp\Inheritance Parent = Child\Inheritance Parent = Child\obj\Debug\net8.0\Inheritance Parent = Child.dll
+D:\OOPC#\OOP_CSharp\Inheritance Parent = Child\Inheritance Parent = Child\obj\Debug\net8.0\refint\Inheritance Parent = Child.dll
+D:\OOPC#\OOP_CSharp\Inheritance Parent = Child\Inheritance Parent = Child\obj\Debug\net8.0\Inheritance Parent = Child.pdb
+D:\OOPC#\OOP_CSharp\Inheritance Parent = Child\Inheritance Parent = Child\obj\Debug\net8.0\Inheritance Parent = Child.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Inheritance Parent = Child\Inheritance Parent = Child\obj\Debug\net8.0\ref\Inheritance Parent = Child.dll
