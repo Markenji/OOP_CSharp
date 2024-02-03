@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Immutable Check Address", "String Immutable Check Address\String Immutable Check Address.csproj", "{63263FF4-0616-4B40-9B33-9C2725453062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63263FF4-0616-4B40-9B33-9C2725453062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63263FF4-0616-4B40-9B33-9C2725453062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63263FF4-0616-4B40-9B33-9C2725453062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63263FF4-0616-4B40-9B33-9C2725453062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5977B74A-633D-43D2-904A-AD271D415D81}
+	EndGlobalSection
+EndGlobal

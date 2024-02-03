@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Reference Type Check Address\Reference Type Check Address\obj\Debug\net8.0\Reference Type Check Address.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Reference Type Check Address\Reference Type Check Address\obj\Debug\net8.0\Reference Type Check Address.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Reference Type Check Address\Reference Type Check Address\obj\Debug\net8.0\Reference Type Check Address.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Reference Type Check Address\Reference Type Check Address\obj\Debug\net8.0\Reference Type Check Address.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Reference Type Check Address\Reference Type Check Address\obj\Debug\net8.0\Reference Type Check Address.sourcelink.json
+D:\OOPC#\OOP_CSharp\Reference Type Check Address\Reference Type Check Address\bin\Debug\net8.0\Reference Type Check Address.exe
+D:\OOPC#\OOP_CSharp\Reference Type Check Address\Reference Type Check Address\bin\Debug\net8.0\Reference Type Check Address.deps.json
+D:\OOPC#\OOP_CSharp\Reference Type Check Address\Reference Type Check Address\bin\Debug\net8.0\Reference Type Check Address.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Reference Type Check Address\Reference Type Check Address\bin\Debug\net8.0\Reference Type Check Address.dll
+D:\OOPC#\OOP_CSharp\Reference Type Check Address\Reference Type Check Address\bin\Debug\net8.0\Reference Type Check Address.pdb
+D:\OOPC#\OOP_CSharp\Reference Type Check Address\Reference Type Check Address\obj\Debug\net8.0\Reference Type Check Address.dll
+D:\OOPC#\OOP_CSharp\Reference Type Check Address\Reference Type Check Address\obj\Debug\net8.0\refint\Reference Type Check Address.dll
+D:\OOPC#\OOP_CSharp\Reference Type Check Address\Reference Type Check Address\obj\Debug\net8.0\Reference Type Check Address.pdb
+D:\OOPC#\OOP_CSharp\Reference Type Check Address\Reference Type Check Address\obj\Debug\net8.0\Reference Type Check Address.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Reference Type Check Address\Reference Type Check Address\obj\Debug\net8.0\ref\Reference Type Check Address.dll

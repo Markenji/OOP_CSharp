@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\More Example Abstract Class\More Example Abstract Class\bin\Debug\net8.0\More Example Abstract Class.exe
+D:\OOPC#\OOP_CSharp\More Example Abstract Class\More Example Abstract Class\bin\Debug\net8.0\More Example Abstract Class.deps.json
+D:\OOPC#\OOP_CSharp\More Example Abstract Class\More Example Abstract Class\bin\Debug\net8.0\More Example Abstract Class.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\More Example Abstract Class\More Example Abstract Class\bin\Debug\net8.0\More Example Abstract Class.dll
+D:\OOPC#\OOP_CSharp\More Example Abstract Class\More Example Abstract Class\bin\Debug\net8.0\More Example Abstract Class.pdb
+D:\OOPC#\OOP_CSharp\More Example Abstract Class\More Example Abstract Class\obj\Debug\net8.0\More Example Abstract Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\More Example Abstract Class\More Example Abstract Class\obj\Debug\net8.0\More Example Abstract Class.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\More Example Abstract Class\More Example Abstract Class\obj\Debug\net8.0\More Example Abstract Class.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\More Example Abstract Class\More Example Abstract Class\obj\Debug\net8.0\More Example Abstract Class.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\More Example Abstract Class\More Example Abstract Class\obj\Debug\net8.0\More Example Abstract Class.sourcelink.json
+D:\OOPC#\OOP_CSharp\More Example Abstract Class\More Example Abstract Class\obj\Debug\net8.0\More Example Abstract Class.dll
+D:\OOPC#\OOP_CSharp\More Example Abstract Class\More Example Abstract Class\obj\Debug\net8.0\refint\More Example Abstract Class.dll
+D:\OOPC#\OOP_CSharp\More Example Abstract Class\More Example Abstract Class\obj\Debug\net8.0\More Example Abstract Class.pdb
+D:\OOPC#\OOP_CSharp\More Example Abstract Class\More Example Abstract Class\obj\Debug\net8.0\More Example Abstract Class.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\More Example Abstract Class\More Example Abstract Class\obj\Debug\net8.0\ref\More Example Abstract Class.dll

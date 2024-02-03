@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Upcast Downcast Explisit Implicit\Upcast Downcast Explisit Implicit\bin\Debug\net8.0\Upcast Downcast Explisit Implicit.exe
+D:\OOPC#\OOP_CSharp\Upcast Downcast Explisit Implicit\Upcast Downcast Explisit Implicit\bin\Debug\net8.0\Upcast Downcast Explisit Implicit.deps.json
+D:\OOPC#\OOP_CSharp\Upcast Downcast Explisit Implicit\Upcast Downcast Explisit Implicit\bin\Debug\net8.0\Upcast Downcast Explisit Implicit.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Upcast Downcast Explisit Implicit\Upcast Downcast Explisit Implicit\bin\Debug\net8.0\Upcast Downcast Explisit Implicit.dll
+D:\OOPC#\OOP_CSharp\Upcast Downcast Explisit Implicit\Upcast Downcast Explisit Implicit\bin\Debug\net8.0\Upcast Downcast Explisit Implicit.pdb
+D:\OOPC#\OOP_CSharp\Upcast Downcast Explisit Implicit\Upcast Downcast Explisit Implicit\obj\Debug\net8.0\Upcast Downcast Explisit Implicit.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Upcast Downcast Explisit Implicit\Upcast Downcast Explisit Implicit\obj\Debug\net8.0\Upcast Downcast Explisit Implicit.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Upcast Downcast Explisit Implicit\Upcast Downcast Explisit Implicit\obj\Debug\net8.0\Upcast Downcast Explisit Implicit.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Upcast Downcast Explisit Implicit\Upcast Downcast Explisit Implicit\obj\Debug\net8.0\Upcast Downcast Explisit Implicit.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Upcast Downcast Explisit Implicit\Upcast Downcast Explisit Implicit\obj\Debug\net8.0\Upcast Downcast Explisit Implicit.sourcelink.json
+D:\OOPC#\OOP_CSharp\Upcast Downcast Explisit Implicit\Upcast Downcast Explisit Implicit\obj\Debug\net8.0\Upcast Downcast Explisit Implicit.dll
+D:\OOPC#\OOP_CSharp\Upcast Downcast Explisit Implicit\Upcast Downcast Explisit Implicit\obj\Debug\net8.0\refint\Upcast Downcast Explisit Implicit.dll
+D:\OOPC#\OOP_CSharp\Upcast Downcast Explisit Implicit\Upcast Downcast Explisit Implicit\obj\Debug\net8.0\Upcast Downcast Explisit Implicit.pdb
+D:\OOPC#\OOP_CSharp\Upcast Downcast Explisit Implicit\Upcast Downcast Explisit Implicit\obj\Debug\net8.0\Upcast Downcast Explisit Implicit.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Upcast Downcast Explisit Implicit\Upcast Downcast Explisit Implicit\obj\Debug\net8.0\ref\Upcast Downcast Explisit Implicit.dll

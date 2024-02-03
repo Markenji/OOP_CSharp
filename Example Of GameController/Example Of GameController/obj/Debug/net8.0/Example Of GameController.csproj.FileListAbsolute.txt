@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Example Of GameController\Example Of GameController\bin\Debug\net8.0\Example Of GameController.exe
+D:\OOPC#\OOP_CSharp\Example Of GameController\Example Of GameController\bin\Debug\net8.0\Example Of GameController.deps.json
+D:\OOPC#\OOP_CSharp\Example Of GameController\Example Of GameController\bin\Debug\net8.0\Example Of GameController.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Example Of GameController\Example Of GameController\bin\Debug\net8.0\Example Of GameController.dll
+D:\OOPC#\OOP_CSharp\Example Of GameController\Example Of GameController\bin\Debug\net8.0\Example Of GameController.pdb
+D:\OOPC#\OOP_CSharp\Example Of GameController\Example Of GameController\obj\Debug\net8.0\Example Of GameController.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Example Of GameController\Example Of GameController\obj\Debug\net8.0\Example Of GameController.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Example Of GameController\Example Of GameController\obj\Debug\net8.0\Example Of GameController.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Example Of GameController\Example Of GameController\obj\Debug\net8.0\Example Of GameController.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Example Of GameController\Example Of GameController\obj\Debug\net8.0\Example Of GameController.sourcelink.json
+D:\OOPC#\OOP_CSharp\Example Of GameController\Example Of GameController\obj\Debug\net8.0\Example Of GameController.dll
+D:\OOPC#\OOP_CSharp\Example Of GameController\Example Of GameController\obj\Debug\net8.0\refint\Example Of GameController.dll
+D:\OOPC#\OOP_CSharp\Example Of GameController\Example Of GameController\obj\Debug\net8.0\Example Of GameController.pdb
+D:\OOPC#\OOP_CSharp\Example Of GameController\Example Of GameController\obj\Debug\net8.0\Example Of GameController.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Example Of GameController\Example Of GameController\obj\Debug\net8.0\ref\Example Of GameController.dll

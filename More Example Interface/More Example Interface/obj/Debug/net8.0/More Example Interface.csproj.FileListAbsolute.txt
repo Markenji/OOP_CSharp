@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\More Example Interface\More Example Interface\bin\Debug\net8.0\More Example Interface.exe
+D:\OOPC#\OOP_CSharp\More Example Interface\More Example Interface\bin\Debug\net8.0\More Example Interface.deps.json
+D:\OOPC#\OOP_CSharp\More Example Interface\More Example Interface\bin\Debug\net8.0\More Example Interface.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\More Example Interface\More Example Interface\bin\Debug\net8.0\More Example Interface.dll
+D:\OOPC#\OOP_CSharp\More Example Interface\More Example Interface\bin\Debug\net8.0\More Example Interface.pdb
+D:\OOPC#\OOP_CSharp\More Example Interface\More Example Interface\obj\Debug\net8.0\More Example Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\More Example Interface\More Example Interface\obj\Debug\net8.0\More Example Interface.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\More Example Interface\More Example Interface\obj\Debug\net8.0\More Example Interface.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\More Example Interface\More Example Interface\obj\Debug\net8.0\More Example Interface.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\More Example Interface\More Example Interface\obj\Debug\net8.0\More Example Interface.sourcelink.json
+D:\OOPC#\OOP_CSharp\More Example Interface\More Example Interface\obj\Debug\net8.0\More Example Interface.dll
+D:\OOPC#\OOP_CSharp\More Example Interface\More Example Interface\obj\Debug\net8.0\refint\More Example Interface.dll
+D:\OOPC#\OOP_CSharp\More Example Interface\More Example Interface\obj\Debug\net8.0\More Example Interface.pdb
+D:\OOPC#\OOP_CSharp\More Example Interface\More Example Interface\obj\Debug\net8.0\More Example Interface.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\More Example Interface\More Example Interface\obj\Debug\net8.0\ref\More Example Interface.dll

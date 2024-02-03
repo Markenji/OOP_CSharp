@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Upcast Downcast Explisit Implicit/1.0.0": {
+        "runtime": {
+          "Upcast Downcast Explisit Implicit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Upcast Downcast Explisit Implicit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\String Immutable Check Address\String Immutable Check Address\bin\Debug\net8.0\String Immutable Check Address.exe
+D:\OOPC#\OOP_CSharp\String Immutable Check Address\String Immutable Check Address\bin\Debug\net8.0\String Immutable Check Address.deps.json
+D:\OOPC#\OOP_CSharp\String Immutable Check Address\String Immutable Check Address\bin\Debug\net8.0\String Immutable Check Address.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\String Immutable Check Address\String Immutable Check Address\bin\Debug\net8.0\String Immutable Check Address.dll
+D:\OOPC#\OOP_CSharp\String Immutable Check Address\String Immutable Check Address\bin\Debug\net8.0\String Immutable Check Address.pdb
+D:\OOPC#\OOP_CSharp\String Immutable Check Address\String Immutable Check Address\obj\Debug\net8.0\String Immutable Check Address.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\String Immutable Check Address\String Immutable Check Address\obj\Debug\net8.0\String Immutable Check Address.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\String Immutable Check Address\String Immutable Check Address\obj\Debug\net8.0\String Immutable Check Address.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\String Immutable Check Address\String Immutable Check Address\obj\Debug\net8.0\String Immutable Check Address.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\String Immutable Check Address\String Immutable Check Address\obj\Debug\net8.0\String Immutable Check Address.sourcelink.json
+D:\OOPC#\OOP_CSharp\String Immutable Check Address\String Immutable Check Address\obj\Debug\net8.0\String Immutable Check Address.dll
+D:\OOPC#\OOP_CSharp\String Immutable Check Address\String Immutable Check Address\obj\Debug\net8.0\refint\String Immutable Check Address.dll
+D:\OOPC#\OOP_CSharp\String Immutable Check Address\String Immutable Check Address\obj\Debug\net8.0\String Immutable Check Address.pdb
+D:\OOPC#\OOP_CSharp\String Immutable Check Address\String Immutable Check Address\obj\Debug\net8.0\String Immutable Check Address.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\String Immutable Check Address\String Immutable Check Address\obj\Debug\net8.0\ref\String Immutable Check Address.dll

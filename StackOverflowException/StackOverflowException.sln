@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackOverflowException", "StackOverflowException\StackOverflowException.csproj", "{BDD2CFE9-DFA4-4FC2-980D-FB3041AA899B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD2CFE9-DFA4-4FC2-980D-FB3041AA899B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD2CFE9-DFA4-4FC2-980D-FB3041AA899B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD2CFE9-DFA4-4FC2-980D-FB3041AA899B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD2CFE9-DFA4-4FC2-980D-FB3041AA899B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EA2B27C-0BB0-440E-947D-4E025FBB3D1A}
+	EndGlobalSection
+EndGlobal

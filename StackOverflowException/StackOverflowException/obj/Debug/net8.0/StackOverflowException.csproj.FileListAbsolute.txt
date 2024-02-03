@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\StackOverflowException\StackOverflowException\bin\Debug\net8.0\StackOverflowException.exe
+D:\OOPC#\OOP_CSharp\StackOverflowException\StackOverflowException\bin\Debug\net8.0\StackOverflowException.deps.json
+D:\OOPC#\OOP_CSharp\StackOverflowException\StackOverflowException\bin\Debug\net8.0\StackOverflowException.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\StackOverflowException\StackOverflowException\bin\Debug\net8.0\StackOverflowException.dll
+D:\OOPC#\OOP_CSharp\StackOverflowException\StackOverflowException\bin\Debug\net8.0\StackOverflowException.pdb
+D:\OOPC#\OOP_CSharp\StackOverflowException\StackOverflowException\obj\Debug\net8.0\StackOverflowException.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\StackOverflowException\StackOverflowException\obj\Debug\net8.0\StackOverflowException.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\StackOverflowException\StackOverflowException\obj\Debug\net8.0\StackOverflowException.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\StackOverflowException\StackOverflowException\obj\Debug\net8.0\StackOverflowException.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\StackOverflowException\StackOverflowException\obj\Debug\net8.0\StackOverflowException.sourcelink.json
+D:\OOPC#\OOP_CSharp\StackOverflowException\StackOverflowException\obj\Debug\net8.0\StackOverflowException.dll
+D:\OOPC#\OOP_CSharp\StackOverflowException\StackOverflowException\obj\Debug\net8.0\refint\StackOverflowException.dll
+D:\OOPC#\OOP_CSharp\StackOverflowException\StackOverflowException\obj\Debug\net8.0\StackOverflowException.pdb
+D:\OOPC#\OOP_CSharp\StackOverflowException\StackOverflowException\obj\Debug\net8.0\StackOverflowException.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\StackOverflowException\StackOverflowException\obj\Debug\net8.0\ref\StackOverflowException.dll

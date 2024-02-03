@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Interface in Gamecontroller\Interface in Gamecontroller\bin\Debug\net8.0\Interface in Gamecontroller.exe
+D:\OOPC#\OOP_CSharp\Interface in Gamecontroller\Interface in Gamecontroller\bin\Debug\net8.0\Interface in Gamecontroller.deps.json
+D:\OOPC#\OOP_CSharp\Interface in Gamecontroller\Interface in Gamecontroller\bin\Debug\net8.0\Interface in Gamecontroller.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Interface in Gamecontroller\Interface in Gamecontroller\bin\Debug\net8.0\Interface in Gamecontroller.dll
+D:\OOPC#\OOP_CSharp\Interface in Gamecontroller\Interface in Gamecontroller\bin\Debug\net8.0\Interface in Gamecontroller.pdb
+D:\OOPC#\OOP_CSharp\Interface in Gamecontroller\Interface in Gamecontroller\obj\Debug\net8.0\Interface in Gamecontroller.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Interface in Gamecontroller\Interface in Gamecontroller\obj\Debug\net8.0\Interface in Gamecontroller.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Interface in Gamecontroller\Interface in Gamecontroller\obj\Debug\net8.0\Interface in Gamecontroller.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Interface in Gamecontroller\Interface in Gamecontroller\obj\Debug\net8.0\Interface in Gamecontroller.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Interface in Gamecontroller\Interface in Gamecontroller\obj\Debug\net8.0\Interface in Gamecontroller.sourcelink.json
+D:\OOPC#\OOP_CSharp\Interface in Gamecontroller\Interface in Gamecontroller\obj\Debug\net8.0\Interface in Gamecontroller.dll
+D:\OOPC#\OOP_CSharp\Interface in Gamecontroller\Interface in Gamecontroller\obj\Debug\net8.0\refint\Interface in Gamecontroller.dll
+D:\OOPC#\OOP_CSharp\Interface in Gamecontroller\Interface in Gamecontroller\obj\Debug\net8.0\Interface in Gamecontroller.pdb
+D:\OOPC#\OOP_CSharp\Interface in Gamecontroller\Interface in Gamecontroller\obj\Debug\net8.0\Interface in Gamecontroller.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Interface in Gamecontroller\Interface in Gamecontroller\obj\Debug\net8.0\ref\Interface in Gamecontroller.dll

@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Abstract Parent Child\Abstract Parent Child\bin\Debug\net8.0\Abstract Parent Child.exe
+D:\OOPC#\OOP_CSharp\Abstract Parent Child\Abstract Parent Child\bin\Debug\net8.0\Abstract Parent Child.deps.json
+D:\OOPC#\OOP_CSharp\Abstract Parent Child\Abstract Parent Child\bin\Debug\net8.0\Abstract Parent Child.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Abstract Parent Child\Abstract Parent Child\bin\Debug\net8.0\Abstract Parent Child.dll
+D:\OOPC#\OOP_CSharp\Abstract Parent Child\Abstract Parent Child\bin\Debug\net8.0\Abstract Parent Child.pdb
+D:\OOPC#\OOP_CSharp\Abstract Parent Child\Abstract Parent Child\obj\Debug\net8.0\Abstract Parent Child.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Abstract Parent Child\Abstract Parent Child\obj\Debug\net8.0\Abstract Parent Child.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Abstract Parent Child\Abstract Parent Child\obj\Debug\net8.0\Abstract Parent Child.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Abstract Parent Child\Abstract Parent Child\obj\Debug\net8.0\Abstract Parent Child.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Abstract Parent Child\Abstract Parent Child\obj\Debug\net8.0\Abstract Parent Child.sourcelink.json
+D:\OOPC#\OOP_CSharp\Abstract Parent Child\Abstract Parent Child\obj\Debug\net8.0\Abstract Parent Child.dll
+D:\OOPC#\OOP_CSharp\Abstract Parent Child\Abstract Parent Child\obj\Debug\net8.0\refint\Abstract Parent Child.dll
+D:\OOPC#\OOP_CSharp\Abstract Parent Child\Abstract Parent Child\obj\Debug\net8.0\Abstract Parent Child.pdb
+D:\OOPC#\OOP_CSharp\Abstract Parent Child\Abstract Parent Child\obj\Debug\net8.0\Abstract Parent Child.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Abstract Parent Child\Abstract Parent Child\obj\Debug\net8.0\ref\Abstract Parent Child.dll
