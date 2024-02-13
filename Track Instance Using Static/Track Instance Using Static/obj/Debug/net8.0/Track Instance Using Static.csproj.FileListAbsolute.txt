@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Track Instance Using Static\Track Instance Using Static\bin\Debug\net8.0\Track Instance Using Static.exe
+D:\OOPC#\OOP_CSharp\Track Instance Using Static\Track Instance Using Static\bin\Debug\net8.0\Track Instance Using Static.deps.json
+D:\OOPC#\OOP_CSharp\Track Instance Using Static\Track Instance Using Static\bin\Debug\net8.0\Track Instance Using Static.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Track Instance Using Static\Track Instance Using Static\bin\Debug\net8.0\Track Instance Using Static.dll
+D:\OOPC#\OOP_CSharp\Track Instance Using Static\Track Instance Using Static\bin\Debug\net8.0\Track Instance Using Static.pdb
+D:\OOPC#\OOP_CSharp\Track Instance Using Static\Track Instance Using Static\obj\Debug\net8.0\Track Instance Using Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Track Instance Using Static\Track Instance Using Static\obj\Debug\net8.0\Track Instance Using Static.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Track Instance Using Static\Track Instance Using Static\obj\Debug\net8.0\Track Instance Using Static.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Track Instance Using Static\Track Instance Using Static\obj\Debug\net8.0\Track Instance Using Static.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Track Instance Using Static\Track Instance Using Static\obj\Debug\net8.0\Track Instance Using Static.sourcelink.json
+D:\OOPC#\OOP_CSharp\Track Instance Using Static\Track Instance Using Static\obj\Debug\net8.0\Track Instance Using Static.dll
+D:\OOPC#\OOP_CSharp\Track Instance Using Static\Track Instance Using Static\obj\Debug\net8.0\refint\Track Instance Using Static.dll
+D:\OOPC#\OOP_CSharp\Track Instance Using Static\Track Instance Using Static\obj\Debug\net8.0\Track Instance Using Static.pdb
+D:\OOPC#\OOP_CSharp\Track Instance Using Static\Track Instance Using Static\obj\Debug\net8.0\Track Instance Using Static.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Track Instance Using Static\Track Instance Using Static\obj\Debug\net8.0\ref\Track Instance Using Static.dll

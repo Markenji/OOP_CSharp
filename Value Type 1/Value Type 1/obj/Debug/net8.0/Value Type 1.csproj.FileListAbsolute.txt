@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Value Type 1\Value Type 1\obj\Debug\net8.0\Value Type 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Value Type 1\Value Type 1\obj\Debug\net8.0\Value Type 1.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Value Type 1\Value Type 1\obj\Debug\net8.0\Value Type 1.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Value Type 1\Value Type 1\obj\Debug\net8.0\Value Type 1.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Value Type 1\Value Type 1\obj\Debug\net8.0\Value Type 1.sourcelink.json
+D:\OOPC#\OOP_CSharp\Value Type 1\Value Type 1\bin\Debug\net8.0\Value Type 1.exe
+D:\OOPC#\OOP_CSharp\Value Type 1\Value Type 1\bin\Debug\net8.0\Value Type 1.deps.json
+D:\OOPC#\OOP_CSharp\Value Type 1\Value Type 1\bin\Debug\net8.0\Value Type 1.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Value Type 1\Value Type 1\bin\Debug\net8.0\Value Type 1.dll
+D:\OOPC#\OOP_CSharp\Value Type 1\Value Type 1\bin\Debug\net8.0\Value Type 1.pdb
+D:\OOPC#\OOP_CSharp\Value Type 1\Value Type 1\obj\Debug\net8.0\Value Type 1.dll
+D:\OOPC#\OOP_CSharp\Value Type 1\Value Type 1\obj\Debug\net8.0\refint\Value Type 1.dll
+D:\OOPC#\OOP_CSharp\Value Type 1\Value Type 1\obj\Debug\net8.0\Value Type 1.pdb
+D:\OOPC#\OOP_CSharp\Value Type 1\Value Type 1\obj\Debug\net8.0\Value Type 1.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Value Type 1\Value Type 1\obj\Debug\net8.0\ref\Value Type 1.dll

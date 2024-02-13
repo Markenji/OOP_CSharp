@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Static vs Non Static\Static vs Non Static\bin\Debug\net8.0\Static vs Non Static.exe
+D:\OOPC#\OOP_CSharp\Static vs Non Static\Static vs Non Static\bin\Debug\net8.0\Static vs Non Static.deps.json
+D:\OOPC#\OOP_CSharp\Static vs Non Static\Static vs Non Static\bin\Debug\net8.0\Static vs Non Static.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Static vs Non Static\Static vs Non Static\bin\Debug\net8.0\Static vs Non Static.dll
+D:\OOPC#\OOP_CSharp\Static vs Non Static\Static vs Non Static\bin\Debug\net8.0\Static vs Non Static.pdb
+D:\OOPC#\OOP_CSharp\Static vs Non Static\Static vs Non Static\obj\Debug\net8.0\Static vs Non Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Static vs Non Static\Static vs Non Static\obj\Debug\net8.0\Static vs Non Static.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Static vs Non Static\Static vs Non Static\obj\Debug\net8.0\Static vs Non Static.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Static vs Non Static\Static vs Non Static\obj\Debug\net8.0\Static vs Non Static.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Static vs Non Static\Static vs Non Static\obj\Debug\net8.0\Static vs Non Static.sourcelink.json
+D:\OOPC#\OOP_CSharp\Static vs Non Static\Static vs Non Static\obj\Debug\net8.0\Static vs Non Static.dll
+D:\OOPC#\OOP_CSharp\Static vs Non Static\Static vs Non Static\obj\Debug\net8.0\refint\Static vs Non Static.dll
+D:\OOPC#\OOP_CSharp\Static vs Non Static\Static vs Non Static\obj\Debug\net8.0\Static vs Non Static.pdb
+D:\OOPC#\OOP_CSharp\Static vs Non Static\Static vs Non Static\obj\Debug\net8.0\Static vs Non Static.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Static vs Non Static\Static vs Non Static\obj\Debug\net8.0\ref\Static vs Non Static.dll

@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Override To String\Override To String\bin\Debug\net8.0\Override To String.exe
+D:\OOPC#\OOP_CSharp\Override To String\Override To String\bin\Debug\net8.0\Override To String.deps.json
+D:\OOPC#\OOP_CSharp\Override To String\Override To String\bin\Debug\net8.0\Override To String.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Override To String\Override To String\bin\Debug\net8.0\Override To String.dll
+D:\OOPC#\OOP_CSharp\Override To String\Override To String\bin\Debug\net8.0\Override To String.pdb
+D:\OOPC#\OOP_CSharp\Override To String\Override To String\obj\Debug\net8.0\Override To String.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Override To String\Override To String\obj\Debug\net8.0\Override To String.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Override To String\Override To String\obj\Debug\net8.0\Override To String.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Override To String\Override To String\obj\Debug\net8.0\Override To String.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Override To String\Override To String\obj\Debug\net8.0\Override To String.sourcelink.json
+D:\OOPC#\OOP_CSharp\Override To String\Override To String\obj\Debug\net8.0\Override To String.dll
+D:\OOPC#\OOP_CSharp\Override To String\Override To String\obj\Debug\net8.0\refint\Override To String.dll
+D:\OOPC#\OOP_CSharp\Override To String\Override To String\obj\Debug\net8.0\Override To String.pdb
+D:\OOPC#\OOP_CSharp\Override To String\Override To String\obj\Debug\net8.0\Override To String.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Override To String\Override To String\obj\Debug\net8.0\ref\Override To String.dll

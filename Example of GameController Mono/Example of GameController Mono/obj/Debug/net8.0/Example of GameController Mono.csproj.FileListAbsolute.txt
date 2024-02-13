@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Example of GameController Mono\Example of GameController Mono\obj\Debug\net8.0\Example of GameController Mono.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Example of GameController Mono\Example of GameController Mono\obj\Debug\net8.0\Example of GameController Mono.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Example of GameController Mono\Example of GameController Mono\obj\Debug\net8.0\Example of GameController Mono.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Example of GameController Mono\Example of GameController Mono\obj\Debug\net8.0\Example of GameController Mono.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Example of GameController Mono\Example of GameController Mono\obj\Debug\net8.0\Example of GameController Mono.sourcelink.json
+D:\OOPC#\OOP_CSharp\Example of GameController Mono\Example of GameController Mono\bin\Debug\net8.0\Example of GameController Mono.exe
+D:\OOPC#\OOP_CSharp\Example of GameController Mono\Example of GameController Mono\bin\Debug\net8.0\Example of GameController Mono.deps.json
+D:\OOPC#\OOP_CSharp\Example of GameController Mono\Example of GameController Mono\bin\Debug\net8.0\Example of GameController Mono.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Example of GameController Mono\Example of GameController Mono\bin\Debug\net8.0\Example of GameController Mono.dll
+D:\OOPC#\OOP_CSharp\Example of GameController Mono\Example of GameController Mono\bin\Debug\net8.0\Example of GameController Mono.pdb
+D:\OOPC#\OOP_CSharp\Example of GameController Mono\Example of GameController Mono\obj\Debug\net8.0\Example of GameController Mono.dll
+D:\OOPC#\OOP_CSharp\Example of GameController Mono\Example of GameController Mono\obj\Debug\net8.0\refint\Example of GameController Mono.dll
+D:\OOPC#\OOP_CSharp\Example of GameController Mono\Example of GameController Mono\obj\Debug\net8.0\Example of GameController Mono.pdb
+D:\OOPC#\OOP_CSharp\Example of GameController Mono\Example of GameController Mono\obj\Debug\net8.0\Example of GameController Mono.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Example of GameController Mono\Example of GameController Mono\obj\Debug\net8.0\ref\Example of GameController Mono.dll

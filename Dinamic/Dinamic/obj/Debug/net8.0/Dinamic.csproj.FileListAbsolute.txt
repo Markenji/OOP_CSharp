@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Dinamic\Dinamic\bin\Debug\net8.0\Dinamic.exe
+D:\OOPC#\OOP_CSharp\Dinamic\Dinamic\bin\Debug\net8.0\Dinamic.deps.json
+D:\OOPC#\OOP_CSharp\Dinamic\Dinamic\bin\Debug\net8.0\Dinamic.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Dinamic\Dinamic\bin\Debug\net8.0\Dinamic.dll
+D:\OOPC#\OOP_CSharp\Dinamic\Dinamic\bin\Debug\net8.0\Dinamic.pdb
+D:\OOPC#\OOP_CSharp\Dinamic\Dinamic\obj\Debug\net8.0\Dinamic.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Dinamic\Dinamic\obj\Debug\net8.0\Dinamic.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Dinamic\Dinamic\obj\Debug\net8.0\Dinamic.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Dinamic\Dinamic\obj\Debug\net8.0\Dinamic.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Dinamic\Dinamic\obj\Debug\net8.0\Dinamic.sourcelink.json
+D:\OOPC#\OOP_CSharp\Dinamic\Dinamic\obj\Debug\net8.0\Dinamic.dll
+D:\OOPC#\OOP_CSharp\Dinamic\Dinamic\obj\Debug\net8.0\refint\Dinamic.dll
+D:\OOPC#\OOP_CSharp\Dinamic\Dinamic\obj\Debug\net8.0\Dinamic.pdb
+D:\OOPC#\OOP_CSharp\Dinamic\Dinamic\obj\Debug\net8.0\Dinamic.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Dinamic\Dinamic\obj\Debug\net8.0\ref\Dinamic.dll

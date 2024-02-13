@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Track Instance Using Static/1.0.0": {
+        "runtime": {
+          "Track Instance Using Static.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Track Instance Using Static/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Penerapan Extension Method\Penerapan Extension Method\bin\Debug\net8.0\Penerapan Extension Method.exe
+D:\OOPC#\OOP_CSharp\Penerapan Extension Method\Penerapan Extension Method\bin\Debug\net8.0\Penerapan Extension Method.deps.json
+D:\OOPC#\OOP_CSharp\Penerapan Extension Method\Penerapan Extension Method\bin\Debug\net8.0\Penerapan Extension Method.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Penerapan Extension Method\Penerapan Extension Method\bin\Debug\net8.0\Penerapan Extension Method.dll
+D:\OOPC#\OOP_CSharp\Penerapan Extension Method\Penerapan Extension Method\bin\Debug\net8.0\Penerapan Extension Method.pdb
+D:\OOPC#\OOP_CSharp\Penerapan Extension Method\Penerapan Extension Method\obj\Debug\net8.0\Penerapan Extension Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Penerapan Extension Method\Penerapan Extension Method\obj\Debug\net8.0\Penerapan Extension Method.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Penerapan Extension Method\Penerapan Extension Method\obj\Debug\net8.0\Penerapan Extension Method.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Penerapan Extension Method\Penerapan Extension Method\obj\Debug\net8.0\Penerapan Extension Method.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Penerapan Extension Method\Penerapan Extension Method\obj\Debug\net8.0\Penerapan Extension Method.sourcelink.json
+D:\OOPC#\OOP_CSharp\Penerapan Extension Method\Penerapan Extension Method\obj\Debug\net8.0\Penerapan Extension Method.dll
+D:\OOPC#\OOP_CSharp\Penerapan Extension Method\Penerapan Extension Method\obj\Debug\net8.0\refint\Penerapan Extension Method.dll
+D:\OOPC#\OOP_CSharp\Penerapan Extension Method\Penerapan Extension Method\obj\Debug\net8.0\Penerapan Extension Method.pdb
+D:\OOPC#\OOP_CSharp\Penerapan Extension Method\Penerapan Extension Method\obj\Debug\net8.0\Penerapan Extension Method.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Penerapan Extension Method\Penerapan Extension Method\obj\Debug\net8.0\ref\Penerapan Extension Method.dll

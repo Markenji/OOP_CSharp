@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Const\Const\bin\Debug\net8.0\Const.exe
+D:\OOPC#\OOP_CSharp\Const\Const\bin\Debug\net8.0\Const.deps.json
+D:\OOPC#\OOP_CSharp\Const\Const\bin\Debug\net8.0\Const.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Const\Const\bin\Debug\net8.0\Const.dll
+D:\OOPC#\OOP_CSharp\Const\Const\bin\Debug\net8.0\Const.pdb
+D:\OOPC#\OOP_CSharp\Const\Const\obj\Debug\net8.0\Const.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Const\Const\obj\Debug\net8.0\Const.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Const\Const\obj\Debug\net8.0\Const.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Const\Const\obj\Debug\net8.0\Const.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Const\Const\obj\Debug\net8.0\Const.sourcelink.json
+D:\OOPC#\OOP_CSharp\Const\Const\obj\Debug\net8.0\Const.dll
+D:\OOPC#\OOP_CSharp\Const\Const\obj\Debug\net8.0\refint\Const.dll
+D:\OOPC#\OOP_CSharp\Const\Const\obj\Debug\net8.0\Const.pdb
+D:\OOPC#\OOP_CSharp\Const\Const\obj\Debug\net8.0\Const.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Const\Const\obj\Debug\net8.0\ref\Const.dll

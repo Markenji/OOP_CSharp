@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Parse and TryParse\Parse and TryParse\bin\Debug\net8.0\Parse and TryParse.exe
+D:\OOPC#\OOP_CSharp\Parse and TryParse\Parse and TryParse\bin\Debug\net8.0\Parse and TryParse.deps.json
+D:\OOPC#\OOP_CSharp\Parse and TryParse\Parse and TryParse\bin\Debug\net8.0\Parse and TryParse.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Parse and TryParse\Parse and TryParse\bin\Debug\net8.0\Parse and TryParse.dll
+D:\OOPC#\OOP_CSharp\Parse and TryParse\Parse and TryParse\bin\Debug\net8.0\Parse and TryParse.pdb
+D:\OOPC#\OOP_CSharp\Parse and TryParse\Parse and TryParse\obj\Debug\net8.0\Parse and TryParse.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Parse and TryParse\Parse and TryParse\obj\Debug\net8.0\Parse and TryParse.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Parse and TryParse\Parse and TryParse\obj\Debug\net8.0\Parse and TryParse.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Parse and TryParse\Parse and TryParse\obj\Debug\net8.0\Parse and TryParse.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Parse and TryParse\Parse and TryParse\obj\Debug\net8.0\Parse and TryParse.sourcelink.json
+D:\OOPC#\OOP_CSharp\Parse and TryParse\Parse and TryParse\obj\Debug\net8.0\Parse and TryParse.dll
+D:\OOPC#\OOP_CSharp\Parse and TryParse\Parse and TryParse\obj\Debug\net8.0\refint\Parse and TryParse.dll
+D:\OOPC#\OOP_CSharp\Parse and TryParse\Parse and TryParse\obj\Debug\net8.0\Parse and TryParse.pdb
+D:\OOPC#\OOP_CSharp\Parse and TryParse\Parse and TryParse\obj\Debug\net8.0\Parse and TryParse.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Parse and TryParse\Parse and TryParse\obj\Debug\net8.0\ref\Parse and TryParse.dll
