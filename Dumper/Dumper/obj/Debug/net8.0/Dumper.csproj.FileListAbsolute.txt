@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Dumper\Dumper\bin\Debug\net8.0\Dumper.exe
+D:\OOPC#\OOP_CSharp\Dumper\Dumper\bin\Debug\net8.0\Dumper.deps.json
+D:\OOPC#\OOP_CSharp\Dumper\Dumper\bin\Debug\net8.0\Dumper.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Dumper\Dumper\bin\Debug\net8.0\Dumper.dll
+D:\OOPC#\OOP_CSharp\Dumper\Dumper\bin\Debug\net8.0\Dumper.pdb
+D:\OOPC#\OOP_CSharp\Dumper\Dumper\obj\Debug\net8.0\Dumper.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Dumper\Dumper\obj\Debug\net8.0\Dumper.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Dumper\Dumper\obj\Debug\net8.0\Dumper.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Dumper\Dumper\obj\Debug\net8.0\Dumper.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Dumper\Dumper\obj\Debug\net8.0\Dumper.sourcelink.json
+D:\OOPC#\OOP_CSharp\Dumper\Dumper\obj\Debug\net8.0\Dumper.dll
+D:\OOPC#\OOP_CSharp\Dumper\Dumper\obj\Debug\net8.0\refint\Dumper.dll
+D:\OOPC#\OOP_CSharp\Dumper\Dumper\obj\Debug\net8.0\Dumper.pdb
+D:\OOPC#\OOP_CSharp\Dumper\Dumper\obj\Debug\net8.0\Dumper.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Dumper\Dumper\obj\Debug\net8.0\ref\Dumper.dll

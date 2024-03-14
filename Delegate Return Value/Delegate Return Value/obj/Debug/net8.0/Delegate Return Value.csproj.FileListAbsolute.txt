@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Delegate Return Value\Delegate Return Value\bin\Debug\net8.0\Delegate Return Value.exe
+D:\OOPC#\OOP_CSharp\Delegate Return Value\Delegate Return Value\bin\Debug\net8.0\Delegate Return Value.deps.json
+D:\OOPC#\OOP_CSharp\Delegate Return Value\Delegate Return Value\bin\Debug\net8.0\Delegate Return Value.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Delegate Return Value\Delegate Return Value\bin\Debug\net8.0\Delegate Return Value.dll
+D:\OOPC#\OOP_CSharp\Delegate Return Value\Delegate Return Value\bin\Debug\net8.0\Delegate Return Value.pdb
+D:\OOPC#\OOP_CSharp\Delegate Return Value\Delegate Return Value\obj\Debug\net8.0\Delegate Return Value.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Delegate Return Value\Delegate Return Value\obj\Debug\net8.0\Delegate Return Value.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Delegate Return Value\Delegate Return Value\obj\Debug\net8.0\Delegate Return Value.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Delegate Return Value\Delegate Return Value\obj\Debug\net8.0\Delegate Return Value.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Delegate Return Value\Delegate Return Value\obj\Debug\net8.0\Delegate Return Value.sourcelink.json
+D:\OOPC#\OOP_CSharp\Delegate Return Value\Delegate Return Value\obj\Debug\net8.0\Delegate Return Value.dll
+D:\OOPC#\OOP_CSharp\Delegate Return Value\Delegate Return Value\obj\Debug\net8.0\refint\Delegate Return Value.dll
+D:\OOPC#\OOP_CSharp\Delegate Return Value\Delegate Return Value\obj\Debug\net8.0\Delegate Return Value.pdb
+D:\OOPC#\OOP_CSharp\Delegate Return Value\Delegate Return Value\obj\Debug\net8.0\Delegate Return Value.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Delegate Return Value\Delegate Return Value\obj\Debug\net8.0\ref\Delegate Return Value.dll

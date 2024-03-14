@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Multicast Delegate 4\Multicast Delegate 4\bin\Debug\net8.0\Multicast Delegate 4.exe
+D:\OOPC#\OOP_CSharp\Multicast Delegate 4\Multicast Delegate 4\bin\Debug\net8.0\Multicast Delegate 4.deps.json
+D:\OOPC#\OOP_CSharp\Multicast Delegate 4\Multicast Delegate 4\bin\Debug\net8.0\Multicast Delegate 4.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Multicast Delegate 4\Multicast Delegate 4\bin\Debug\net8.0\Multicast Delegate 4.dll
+D:\OOPC#\OOP_CSharp\Multicast Delegate 4\Multicast Delegate 4\bin\Debug\net8.0\Multicast Delegate 4.pdb
+D:\OOPC#\OOP_CSharp\Multicast Delegate 4\Multicast Delegate 4\obj\Debug\net8.0\Multicast Delegate 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Multicast Delegate 4\Multicast Delegate 4\obj\Debug\net8.0\Multicast Delegate 4.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Multicast Delegate 4\Multicast Delegate 4\obj\Debug\net8.0\Multicast Delegate 4.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Multicast Delegate 4\Multicast Delegate 4\obj\Debug\net8.0\Multicast Delegate 4.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Multicast Delegate 4\Multicast Delegate 4\obj\Debug\net8.0\Multicast Delegate 4.sourcelink.json
+D:\OOPC#\OOP_CSharp\Multicast Delegate 4\Multicast Delegate 4\obj\Debug\net8.0\Multicast Delegate 4.dll
+D:\OOPC#\OOP_CSharp\Multicast Delegate 4\Multicast Delegate 4\obj\Debug\net8.0\refint\Multicast Delegate 4.dll
+D:\OOPC#\OOP_CSharp\Multicast Delegate 4\Multicast Delegate 4\obj\Debug\net8.0\Multicast Delegate 4.pdb
+D:\OOPC#\OOP_CSharp\Multicast Delegate 4\Multicast Delegate 4\obj\Debug\net8.0\Multicast Delegate 4.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Multicast Delegate 4\Multicast Delegate 4\obj\Debug\net8.0\ref\Multicast Delegate 4.dll

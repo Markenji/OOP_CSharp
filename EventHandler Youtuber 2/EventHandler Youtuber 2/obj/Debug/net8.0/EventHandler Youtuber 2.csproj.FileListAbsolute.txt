@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\EventHandler Youtuber 2\EventHandler Youtuber 2\bin\Debug\net8.0\EventHandler Youtuber 2.exe
+D:\OOPC#\OOP_CSharp\EventHandler Youtuber 2\EventHandler Youtuber 2\bin\Debug\net8.0\EventHandler Youtuber 2.deps.json
+D:\OOPC#\OOP_CSharp\EventHandler Youtuber 2\EventHandler Youtuber 2\bin\Debug\net8.0\EventHandler Youtuber 2.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\EventHandler Youtuber 2\EventHandler Youtuber 2\bin\Debug\net8.0\EventHandler Youtuber 2.dll
+D:\OOPC#\OOP_CSharp\EventHandler Youtuber 2\EventHandler Youtuber 2\bin\Debug\net8.0\EventHandler Youtuber 2.pdb
+D:\OOPC#\OOP_CSharp\EventHandler Youtuber 2\EventHandler Youtuber 2\obj\Debug\net8.0\EventHandler Youtuber 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\EventHandler Youtuber 2\EventHandler Youtuber 2\obj\Debug\net8.0\EventHandler Youtuber 2.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\EventHandler Youtuber 2\EventHandler Youtuber 2\obj\Debug\net8.0\EventHandler Youtuber 2.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\EventHandler Youtuber 2\EventHandler Youtuber 2\obj\Debug\net8.0\EventHandler Youtuber 2.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\EventHandler Youtuber 2\EventHandler Youtuber 2\obj\Debug\net8.0\EventHandler Youtuber 2.sourcelink.json
+D:\OOPC#\OOP_CSharp\EventHandler Youtuber 2\EventHandler Youtuber 2\obj\Debug\net8.0\EventHandler Youtuber 2.dll
+D:\OOPC#\OOP_CSharp\EventHandler Youtuber 2\EventHandler Youtuber 2\obj\Debug\net8.0\refint\EventHandler Youtuber 2.dll
+D:\OOPC#\OOP_CSharp\EventHandler Youtuber 2\EventHandler Youtuber 2\obj\Debug\net8.0\EventHandler Youtuber 2.pdb
+D:\OOPC#\OOP_CSharp\EventHandler Youtuber 2\EventHandler Youtuber 2\obj\Debug\net8.0\EventHandler Youtuber 2.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\EventHandler Youtuber 2\EventHandler Youtuber 2\obj\Debug\net8.0\ref\EventHandler Youtuber 2.dll

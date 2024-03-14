@@ -1,0 +1,15 @@
+D:\OOPC#\OOP_CSharp\Praktek Generic Constrain\Praktek Generic Constrain\obj\Debug\net8.0\Praktek Generic Constrain.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPC#\OOP_CSharp\Praktek Generic Constrain\Praktek Generic Constrain\obj\Debug\net8.0\Praktek Generic Constrain.AssemblyInfoInputs.cache
+D:\OOPC#\OOP_CSharp\Praktek Generic Constrain\Praktek Generic Constrain\obj\Debug\net8.0\Praktek Generic Constrain.AssemblyInfo.cs
+D:\OOPC#\OOP_CSharp\Praktek Generic Constrain\Praktek Generic Constrain\obj\Debug\net8.0\Praktek Generic Constrain.csproj.CoreCompileInputs.cache
+D:\OOPC#\OOP_CSharp\Praktek Generic Constrain\Praktek Generic Constrain\obj\Debug\net8.0\Praktek Generic Constrain.sourcelink.json
+D:\OOPC#\OOP_CSharp\Praktek Generic Constrain\Praktek Generic Constrain\bin\Debug\net8.0\Praktek Generic Constrain.exe
+D:\OOPC#\OOP_CSharp\Praktek Generic Constrain\Praktek Generic Constrain\bin\Debug\net8.0\Praktek Generic Constrain.deps.json
+D:\OOPC#\OOP_CSharp\Praktek Generic Constrain\Praktek Generic Constrain\bin\Debug\net8.0\Praktek Generic Constrain.runtimeconfig.json
+D:\OOPC#\OOP_CSharp\Praktek Generic Constrain\Praktek Generic Constrain\bin\Debug\net8.0\Praktek Generic Constrain.dll
+D:\OOPC#\OOP_CSharp\Praktek Generic Constrain\Praktek Generic Constrain\bin\Debug\net8.0\Praktek Generic Constrain.pdb
+D:\OOPC#\OOP_CSharp\Praktek Generic Constrain\Praktek Generic Constrain\obj\Debug\net8.0\Praktek Generic Constrain.dll
+D:\OOPC#\OOP_CSharp\Praktek Generic Constrain\Praktek Generic Constrain\obj\Debug\net8.0\refint\Praktek Generic Constrain.dll
+D:\OOPC#\OOP_CSharp\Praktek Generic Constrain\Praktek Generic Constrain\obj\Debug\net8.0\Praktek Generic Constrain.pdb
+D:\OOPC#\OOP_CSharp\Praktek Generic Constrain\Praktek Generic Constrain\obj\Debug\net8.0\Praktek Generic Constrain.genruntimeconfig.cache
+D:\OOPC#\OOP_CSharp\Praktek Generic Constrain\Praktek Generic Constrain\obj\Debug\net8.0\ref\Praktek Generic Constrain.dll
